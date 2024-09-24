@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maria-dimartino-zonfrillo
+- 👋 Hi, I’m @maria-zonfrillo
 - 👀 I’m interested in healthcare data analytics
 - 🌱 I’m currently learning R, Python
 - 💞️ I’m looking to collaborate on ...
